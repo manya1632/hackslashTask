@@ -75,7 +75,7 @@
     align-items: center;
     margin:2% 0 2% 0;
     gap: 20px;
-    animation: transitionIn 1s;
+    animation: transitionIn 0.75s;
 }
 
 .card{
@@ -139,7 +139,6 @@ h3{
 #anchor{
     text-decoration: none;
     font-weight: 800;
-    color: var(--dark-primary);
     text-align:center;
     font-size: 22px;
 }
