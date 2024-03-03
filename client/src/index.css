@@ -150,25 +150,6 @@ h3{
     color:slategray;
 }
 
-@media only screen and (max-width: 768px) {
-    #heading {
-        padding-right: 20%;
-    }
-    
-    .cardContainer {
-        width: 90%;
-    }
-    
-    .content {
-        width: 80%;
-    }
-    
-    .img {
-        width: 80%;
-        padding-top: 1%;
-    }
-}
-
 @media screen and (max-width: 768px) {
     #heading {
         padding-right: 0;
@@ -204,7 +185,7 @@ h3{
     }
 
     .img {
-        padding-top: 2%;
+        padding-top: 1.5%;
     }
 }
 
